@@ -1,0 +1,22 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "projeto avancado para aprender a manipular elementos web com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels",
+    "qacademy",
+    "qaninja"
+  ],
+  "author": "Matheus Rocha",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-real-events": "^1.7.0"
+  }
+}
